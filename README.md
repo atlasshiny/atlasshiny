@@ -12,7 +12,6 @@ I work on high-performance computing, GPU kernels, and ML systems, mostly where 
 ## What I'm doing now
 
 - **Undergraduate AI Researcher** at the UF Warrington Fintech Research Center (advised by Dr. Yanbin Wu). I'm building an interpretability pipeline on the HiPerGator supercomputer to evaluate LLM reasoning faithfulness in algorithmic backtesting. I also wrote a fused Triton kernel (RMSNorm + linear projection) that cut per-pass latency from 120 ms to 19 ms (**6.22x**).
-- **Co-Founder & Technical Lead at Sandhiva**, a local-first clinical support tool (accepted into the Gator Hatchery). It runs a fully on-device RAG backend with in-memory PHI scrubbing, so patient data never leaves the machine.
 
 ## Projects
 
